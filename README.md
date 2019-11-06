@@ -2,6 +2,8 @@
 
 Website shows NASA Astronomy Picture of the Day and Mars Rover photos gallery with REST API used.
 
+https://soygitana.github.io/NASA-API-challenge/
+
 ### Technologies and tools:
 
 * HTML
